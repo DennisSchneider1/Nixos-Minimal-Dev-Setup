@@ -1,0 +1,2 @@
+# Nixos Minimal Dev Setup
+ 
