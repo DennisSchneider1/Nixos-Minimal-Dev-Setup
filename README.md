@@ -1,9 +1,7 @@
 # Nixos Minimal Dev Setup
- 
-## NixOS Configuration ReadMe
 
 ### Overview
-This document describes the configuration settings for a NixOS system. The configuration includes language settings, included packages, system settings, and other relevant configurations.
+This document describes the configuration settings for my NixOS system. The configuration includes language settings, included packages, system settings, and other relevant configurations.
 
 ### Language Settings
 - **Default Locale:** `en_US.UTF-8`
